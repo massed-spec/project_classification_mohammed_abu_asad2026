@@ -21,7 +21,7 @@ st.sidebar.write("2 = Agricu")
 st.sidebar.write("3 = Water")
 
 # عنوان التطبيق
-st.title("Raster Classification using Decision Tree _ محمد سليم أبو اسد ")
+st.title("Raster Classification using Decision Tree ")
 st.title("محمد سليم أبو اسد ")
 
 # رفع الصورة
